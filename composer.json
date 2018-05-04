@@ -1,0 +1,21 @@
+{
+  "name": "sashas/bug-from-email",
+  "description": "A Magento 2 module for issue #14952",
+  "homepage": "http://www.extensions.sashas.org/",
+  "type": "magento2-module",
+  "version": "2.0.0",
+  "license": [
+    "GPL-3.0"
+  ],
+  "require": {
+    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6|~7.1.0",
+    "magento/framework": "101.0.4",
+    "magento/module-sales": "101.0.3"
+  },
+  "autoload": {
+    "files": [ "registration.php" ],
+    "psr-4": {
+      "Sashas\\BugFromEmail\\": ""
+    }
+  }
+}
