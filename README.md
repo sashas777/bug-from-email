@@ -35,7 +35,7 @@ php bin/magento setup:static-content:deploy
 Run the following command in Magento 2 root folder:
 
 ```
-composer require sashas/bug-from-email
+composer remove sashas/bug-from-email
 php bin/magento setup:upgrade
 php bin/magento setup:di:compile
 php bin/magento setup:static-content:deploy
