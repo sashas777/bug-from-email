@@ -5,7 +5,7 @@
  * @license     http://opensource.org/licenses/GPL-3.0  GNU General Public License, version 3 (GPL-3.0)
  */
 
-namespace Sashas\BugFromEmail\Plugin\Framework\Mail\Template;
+namespace Sashas\BugFromEmail\Rewrite\Framework\Mail\Template;
 
 class TransportBuilder extends \Magento\Framework\Mail\Template\TransportBuilder
 {
