@@ -5,7 +5,7 @@
  * @license     http://opensource.org/licenses/GPL-3.0  GNU General Public License, version 3 (GPL-3.0)
  */
 
-namespace Sashas\BugFromEmail\Plugin\Sales\Model\Order\Email;
+namespace Sashas\BugFromEmail\Rewrite\Sales\Model\Order\Email;
 
 class SenderBuilder extends \Magento\Sales\Model\Order\Email\SenderBuilder
 {
