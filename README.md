@@ -1,4 +1,6 @@
 # Magento 2.2.4 Fix for Issue #14952
+This module works only with Magento 2.2.4 version and need to be removed after upgrade/downgrade. Assumed that the issue will be fixed in the new release. 
+
 ## 1. How to install module
 
 ### Install via composer (recommend)
