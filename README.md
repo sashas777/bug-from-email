@@ -1,10 +1,10 @@
-# Magento 2.2.4 Fix for Issue #14952
+# Magento 2.2.4/2.2.5 Fix for Issue #14952
 [![Latest Stable Version](https://poser.pugx.org/sashas/bug-from-email/v/stable)](https://packagist.org/packages/sashas/bug-from-email)
 [![Total Downloads](https://poser.pugx.org/sashas/bug-from-email/downloads)](https://packagist.org/packages/sashas/bug-from-email)
 [![Latest Unstable Version](https://poser.pugx.org/sashas/bug-from-email/v/unstable)](https://packagist.org/packages/sashas/bug-from-email)
 [![License](https://poser.pugx.org/sashas/bug-from-email/license)](https://packagist.org/packages/sashas/bug-from-email)
 
-This module works only with Magento 2.2.4 version and need to be removed after upgrade/downgrade. Assumed that the issue will be fixed in the new release. 
+This module works only with Magento 2.2.4/2.2.5 versions and need to be removed after upgrade/downgrade. Assumed that the issue will be fixed in the new release. 
 
 ## 1. How to install module
 
