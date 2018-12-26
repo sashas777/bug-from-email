@@ -1,4 +1,4 @@
-# Magento 2.2.4/2.2.5 Fix for Issue #14952
+# Magento 2.2.4 - 2.2.7 Fix for Issue #14952
 [![Latest Stable Version](https://poser.pugx.org/sashas/bug-from-email/v/stable)](https://packagist.org/packages/sashas/bug-from-email)
 [![Total Downloads](https://poser.pugx.org/sashas/bug-from-email/downloads)](https://packagist.org/packages/sashas/bug-from-email)
 [![Latest Unstable Version](https://poser.pugx.org/sashas/bug-from-email/v/unstable)](https://packagist.org/packages/sashas/bug-from-email)
