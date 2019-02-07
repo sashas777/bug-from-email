@@ -4,7 +4,7 @@
 [![Latest Unstable Version](https://poser.pugx.org/sashas/bug-from-email/v/unstable)](https://packagist.org/packages/sashas/bug-from-email)
 [![License](https://poser.pugx.org/sashas/bug-from-email/license)](https://packagist.org/packages/sashas/bug-from-email)
 
-This module works only with Magento 2.2.4/2.2.5 versions and need to be removed after upgrade/downgrade. Assumed that the issue will be fixed in the new release. 
+This module works with Magento 2.2.4 - 2.2.7 versions and need to be removed after upgrade/downgrade. Assumed that the issue will be fixed in the new release. 
 
 ## 1. How to install module
 
