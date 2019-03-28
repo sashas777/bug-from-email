@@ -9,8 +9,8 @@
   ],
   "require": {
     "php": "~5.6.5|7.0.2|7.0.4|~7.0.6|~7.1.0",
-    "magento/framework": "101.0.4|101.0.5|101.0.6|101.0.7",
-    "magento/module-sales": "101.0.3|101.0.4|101.0.5|101.0.6"
+    "magento/framework": "101.0.4|101.0.5|101.0.6|101.0.7|101.0.8",
+    "magento/module-sales": "101.0.3|101.0.4|101.0.5|101.0.6|101.0.7"
   },
   "autoload": {
     "files": [ "registration.php" ],
